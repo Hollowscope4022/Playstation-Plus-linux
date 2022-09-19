@@ -24,7 +24,7 @@ Next click on the little icon left of the settings cog and install "Lutris-7.2-2
 Next go ahead and click on the plus button on the top left of Lutris, it will open the add game menu, click add locally installed game.
 ![image](https://user-images.githubusercontent.com/106441310/190972132-3a0326f1-ebaf-475e-ae3e-47a165010e71.png)<!--add game-->
 
-#Basic info
+# Basic info
 Next we are going to give lutris all the info and settings PS Plus needs. In the name field type in a name of your choice that you want the game to appear as in your main menu, mine is "ps plus". Then open the runner drop down menu and select wine.
 ![image](https://user-images.githubusercontent.com/106441310/190972487-5c7cb1ff-2d69-4b4e-b3ce-1d5bdab57abf.png)<!--game info-->
 
