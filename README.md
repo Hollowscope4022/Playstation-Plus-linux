@@ -67,7 +67,19 @@ One thing needed for ps plus to work on linux properly is to donwload "MSVCR120.
 
 ![image](https://user-images.githubusercontent.com/106441310/190990254-2814a40a-aef5-464b-b4a1-cb229b91450f.png)<!--MSVCR120.DLL-->
 
+# Opening The PS Plus folder
+After downloading the dll, right click PS Plus from lutris and click Browse files, it will open the folder where PS Plus is installed.
+
 # Placing MSVCR120.DLL in PS Plus
+Move or copy and paste MSVCR120.DLL into the Playstation Plus folder
+
+![image](https://user-images.githubusercontent.com/106441310/190991589-e759420a-4f40-47d4-848f-916cc7350caa.png)
+
+# The agl folder
+now copy MSVCR120.DLL and paste it into the agl folder, don't move it just copy it because both of the folders need MSVCR120.DLL
+After that you can close your file browser.
+
+![image](https://user-images.githubusercontent.com/106441310/190991906-40334620-4ba3-40d1-b7bc-267c2a6038c9.png)
 
 
 # Starting PS Plus
