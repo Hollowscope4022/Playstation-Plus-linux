@@ -67,13 +67,13 @@ One thing needed for ps plus to work on linux properly is to donwload "MSVCR120.
 
 # Placing MSVCR120.DLL in PS Plus
 
-![image](https://user-images.githubusercontent.com/106441310/190990254-2814a40a-aef5-464b-b4a1-cb229b91450f.png)
+![image](https://user-images.githubusercontent.com/106441310/190990254-2814a40a-aef5-464b-b4a1-cb229b91450f.png)<!--MSVCR120.DLL-->
 
 # Starting PS Plus
 Everytime you launch it you're going to see the ps plus logo and a warning sayinng ps plus may not function correctly in a virtual machine, this is not a virtual machine, this is a compatibility tool so im unsure what makes it give this warning or how to disbale it just yet,just click ok and ps plus will open just as it would on windows.
 
 
-![image](https://user-images.githubusercontent.com/106441310/190988133-c9ded000-18fc-4f42-ad4f-02a21ff899e6.png)
+![image](https://user-images.githubusercontent.com/106441310/190988133-c9ded000-18fc-4f42-ad4f-02a21ff899e6.png)<!--vm warning-->
 
 
 # Sign in and sign in issues
