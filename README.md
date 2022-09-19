@@ -37,7 +37,7 @@ Now go into the Runner options tab and toggle show advanced options at the botto
 ![image](https://user-images.githubusercontent.com/106441310/190975171-edfa09e8-9ad9-4123-8feb-47cab84011cd.png)<!--runner options 2-->
 
 # System options
-Now onto the last tab which is System options, once you're in there make sure you toggle "Disable Lutris Runtime" if that's left on then ps plus will not work with Playstation/direct-input controllers, and you also will have no sound in game. So if you have either of those issues please ensure this setting is on. Along with that make sure the rest of these settings match mine with the exception of your home directory of course, it should look like mine but with your name.![image](https://user-images.githubusercontent.com/106441310/190975538-f37d1b97-79aa-4cb8-bd15-0b4b0447c8ba.png)<!--system options-->
+Now onto the last tab which is System options, once you're in there make sure you toggle "Disable Lutris Runtime" (to avoid any confusion you want it to be blue with a checkmark) if that's left off then ps plus will not work with Playstation/direct-input controllers, and you also will have no sound in game. So if you have either of those issues please ensure this setting is on. Along with that make sure the rest of these settings match mine with the exception of your home directory of course, it should look like mine but with your name.![image](https://user-images.githubusercontent.com/106441310/190975538-f37d1b97-79aa-4cb8-bd15-0b4b0447c8ba.png)<!--system options-->
 ![image](https://user-images.githubusercontent.com/106441310/190975582-3b61f3ee-3f28-4a94-9ed6-a4c41261070d.png)<!--system options 2-->
 
 
