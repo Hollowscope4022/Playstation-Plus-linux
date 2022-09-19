@@ -12,12 +12,23 @@ Next you're going to need a peice of software called Lutris. Lutris is a manager
 
 # Installing PS Plus on Lutris
 Upon running Lutris for the first time you will be welcomed by a window similar to what you see in my image below. Again this can manage a ton of games including steam and epic as well as ubisoft, but let's not get off track. First thing you're gonna wanna do is to go to the sidebar on the left and click on wine if you don't already have that selected. Next click on the little icon left of the settings cog and install "Lutris-7.2-2. This is the best version of wine that iv'e gotten PS Plus to run with, it shouldn't crash or have any issues. If you do encounter any issues please let me know. Go ahead and close out of that menu after wine is done installing. Next go ahead and click on the plus button on the top left of Lutris, it will open the add game menu, click add locally installed game, Next we are going to give lutris all the info and settings PS Plus needs. In the name field type in a name of your choice that you want the game to appear as in your main menu, mine is "ps plus". Then open the runner drop down menu and select wine.
-Next navigate to the Game options tab, and click browse on the executable section. From there navigate to where you downloaded your PS Plus setup.exe and select it.
+Next navigate to the Game options tab, and click browse on the executable section. From there navigate to where you downloaded your PS Plus setup.exe and select it, once you select it go into the Runner options tab and toggle show advanced options at the bottom left, then make sure all your settings in this tab match mine. Now onto the last tab which is System options, once you're in there make sure you toggle "Disable Lutris Runtime" if that's left on then ps plus will not work with Playstation/direct-input controllers, and you also will have no sound in game. So if you have either of those issues please ensure this setting is on. Along with that make sure the rest of these settings match mine with the exception of your home directory of course, it should look like mine but with your name. Lastly hit save, you're all done configuring! now all you gotta do is run ps plus from lutris and the first time you do it, you will be greeted with the Playstation Plus installer.
 ![image](https://user-images.githubusercontent.com/106441310/190971109-778e2fda-b9ad-47ab-b04e-b07b16b250ee.png)
 ![image](https://user-images.githubusercontent.com/106441310/190971973-828f3a77-c757-4665-81ea-69b71b6a78c1.png)
 ![image](https://user-images.githubusercontent.com/106441310/190972132-3a0326f1-ebaf-475e-ae3e-47a165010e71.png)
 ![image](https://user-images.githubusercontent.com/106441310/190972487-5c7cb1ff-2d69-4b4e-b3ce-1d5bdab57abf.png)
 ![image](https://user-images.githubusercontent.com/106441310/190972739-1771fa04-a190-4fdd-b900-9675d19c9452.png)
+![image](https://user-images.githubusercontent.com/106441310/190974502-c47d1c98-ef29-423c-a690-6e39bc98f754.png)
+![image](https://user-images.githubusercontent.com/106441310/190975098-0766af26-1b3f-4ee9-9d9c-ac7aa905bec8.png)
+![image](https://user-images.githubusercontent.com/106441310/190975171-edfa09e8-9ad9-4123-8feb-47cab84011cd.png)
+![image](https://user-images.githubusercontent.com/106441310/190975538-f37d1b97-79aa-4cb8-bd15-0b4b0447c8ba.png)
+![image](https://user-images.githubusercontent.com/106441310/190975582-3b61f3ee-3f28-4a94-9ed6-a4c41261070d.png)
+![image](https://user-images.githubusercontent.com/106441310/190975805-a96b668f-f0f6-415a-b0c7-801aa1b243ed.png)
+![image](https://user-images.githubusercontent.com/106441310/190975906-5072b29d-e207-420c-9001-5646d5339788.png)
+
+
+
+
 
 
 
