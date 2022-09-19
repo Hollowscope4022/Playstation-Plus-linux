@@ -46,6 +46,7 @@ Lastly hit save, you're all done configuring!
 
 ![image](https://user-images.githubusercontent.com/106441310/190987240-c2aa9fb8-a38a-480e-a3b3-9b7fe48ebd0f.png)
 
+
 # Running PS Plus the first time
 Now all you gotta do is run ps plus from lutris and the first time you do it, you will be greeted with the Playstation Plus installer.
 ![image](https://user-images.githubusercontent.com/106441310/190975805-a96b668f-f0f6-415a-b0c7-801aa1b243ed.png)<!--menu with ps plus-->
@@ -60,6 +61,13 @@ Go ahead and hit Next to install it, no need to mess with any directory settings
 # Completing the setup
 Once it's finished installing PS Plus click finish, if PS Plus doesn't launch you can launch it from Lutris, and tha'ts how you'll launch it from  now on unless you make a shortcut to it or pin it to a taskbar.
 ![image](https://user-images.githubusercontent.com/106441310/190977062-92b5aa12-4485-4094-bc4a-d7588f670471.png)<!--psplus setup finish-->
+
+# DOWNLOADING MSVCR120.DLL
+One thing needed for ps plus to work on linux properly is to donwload "MSVCR120.DLL" I found this out by doing some research on the origional PS Now sony had a long time ago which is a predecessor to PS Plus, this file is needed for it to run on anything other than windows.You can download [MSVCR120.DLL](here)
+
+# Placing MSVCR120.DLL in PS Plus
+
+![image](https://user-images.githubusercontent.com/106441310/190990254-2814a40a-aef5-464b-b4a1-cb229b91450f.png)
 
 # Starting PS Plus
 Everytime you launch it you're going to see the ps plus logo and a warning sayinng ps plus may not function correctly in a virtual machine, this is not a virtual machine, this is a compatibility tool so im unsure what makes it give this warning or how to disbale it just yet,just click ok and ps plus will open just as it would on windows.
