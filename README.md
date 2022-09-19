@@ -31,18 +31,20 @@ Next we are going to give lutris all the info and settings PS Plus needs. In the
 # Setting the path
 Next navigate to the Game options tab, and click browse on the executable section. From there navigate to where you downloaded your PS Plus setup.exe and select it![image](https://user-images.githubusercontent.com/106441310/190974502-c47d1c98-ef29-423c-a690-6e39bc98f754.png)<!--game directory-->
 
-#Runner options
-Now go into the Runner options tab and toggle show advanced options at the bottom left, then make sure all your settings in this tab match mine. Now onto the last tab which is System options, once you're in there make sure you toggle "Disable Lutris Runtime" if that's left on then ps plus will not work with Playstation/direct-input controllers, and you also will have no sound in game. So if you have either of those issues please ensure this setting is on. Along with that make sure the rest of these settings match mine with the exception of your home directory of course, it should look like mine but with your name. Lastly hit save, you're all done configuring! now all you gotta do is run ps plus from lutris and the first time you do it, you will be greeted with the Playstation Plus installer. Go ahead and hit Next to install it, no need to mess with any directory settings because it's important that wine installs this to your virtual c drive that it creates for your windows applications/.exe's. Once it's finished installing PS Plus click finish, if PS Plus doesn't launch you can launch it from Lutris, and tha'ts how you'll launch it from  now on unless you make a shortcut to it or pin it to a taskbar.Everytime you launch it you're going to see the ps plus logo and a warning sayinng ps plus may not function correctly in a virtual machine, this is not a virtual machine, this is a compatibility tool so im unsure what makes it give this warning or how to disbale it just yet,just click ok and ps plus will open just as it would on windows.Now just sign into PS Plus with your sony account and you should be good to go! Don't be dischouraged if the sign in doesn't work the first time, iv'e tested this on both windows and linux and at the moment sony has left it in a bit of a buggy state as it took me 3 attempts to sign in and actually load into the menu properly. PS Plus games also will not launch unless you have a controller connected, so make you you've got one hooked up, and then click on the tv icon at the top right to switch to controller mode. Happy streaming!
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/106441310/190972739-1771fa04-a190-4fdd-b900-9675d19c9452.png)<!--game options-->
-
+# Runner options
+Now go into the Runner options tab and toggle show advanced options at the bottom left, then make sure all your settings in this tab match mine. Now onto the last tab which is System options, once you're in there make sure you toggle "Disable Lutris Runtime" if that's left on then ps plus will not work with Playstation/direct-input controllers, and you also will have no sound in game. So if you have either of those issues please ensure this setting is on. Along with that make sure the rest of these settings match mine with the exception of your home directory of course, it should look like mine but with your name
 ![image](https://user-images.githubusercontent.com/106441310/190975098-0766af26-1b3f-4ee9-9d9c-ac7aa905bec8.png)<!--runner options 1-->
 ![image](https://user-images.githubusercontent.com/106441310/190975171-edfa09e8-9ad9-4123-8feb-47cab84011cd.png)<!--runner options 2-->
+
+
+.Lastly hit save, you're all done configuring! now all you gotta do is run ps plus from lutris and the first time you do it, you will be greeted with the Playstation Plus installer. Go ahead and hit Next to install it, no need to mess with any directory settings because it's important that wine installs this to your virtual c drive that it creates for your windows applications/.exe's. Once it's finished installing PS Plus click finish, if PS Plus doesn't launch you can launch it from Lutris, and tha'ts how you'll launch it from  now on unless you make a shortcut to it or pin it to a taskbar.Everytime you launch it you're going to see the ps plus logo and a warning sayinng ps plus may not function correctly in a virtual machine, this is not a virtual machine, this is a compatibility tool so im unsure what makes it give this warning or how to disbale it just yet,just click ok and ps plus will open just as it would on windows.Now just sign into PS Plus with your sony account and you should be good to go! Don't be dischouraged if the sign in doesn't work the first time, iv'e tested this on both windows and linux and at the moment sony has left it in a bit of a buggy state as it took me 3 attempts to sign in and actually load into the menu properly. PS Plus games also will not launch unless you have a controller connected, so make you you've got one hooked up, and then click on the tv icon at the top right to switch to controller mode. Happy streaming!
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/106441310/190975538-f37d1b97-79aa-4cb8-bd15-0b4b0447c8ba.png)<!--system options-->
 ![image](https://user-images.githubusercontent.com/106441310/190975582-3b61f3ee-3f28-4a94-9ed6-a4c41261070d.png)<!--system options 2-->
 ![image](https://user-images.githubusercontent.com/106441310/190975805-a96b668f-f0f6-415a-b0c7-801aa1b243ed.png)<!--menu with ps plus-->
