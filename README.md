@@ -74,6 +74,8 @@ Now just sign into PS Plus with your sony account and you should be good to go! 
 
 
 PS Plus games also will not launch unless you have a controller connected, so make you you've got one hooked up, and then click on the tv icon at the top right to switch to controller mode. Happy streaming!
+
+
 ![image](https://user-images.githubusercontent.com/106441310/190978737-94ab5305-26df-4a1f-9932-aa19302fbf23.png)<!--psplus controller mode-->
 
 
