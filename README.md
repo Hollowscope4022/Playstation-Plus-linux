@@ -59,7 +59,7 @@ Go ahead and hit Next to install it, no need to mess with any directory settings
 
 
 # Completing the setup
-Once it's finished installing PS Plus click finish, if PS Plus doesn't launch you can launch it from Lutris, and tha'ts how you'll launch it from  now on unless you make a shortcut to it or pin it to a taskbar.
+Once it's finished installing PS Plus click the arrow to turn off auto launching PS Plus cause we don't want to just yet, then Click finish 
 ![image](https://user-images.githubusercontent.com/106441310/190977062-92b5aa12-4485-4094-bc4a-d7588f670471.png)<!--psplus setup finish-->
 
 # DOWNLOADING MSVCR120.DLL
