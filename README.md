@@ -14,6 +14,7 @@ Next you're going to need a peice of software called Lutris. Lutris is a manager
 # Installing PS Plus on Lutris
 Upon running Lutris for the first time you will be welcomed by a window similar to what you see in my image below. Again this can manage a ton of games including steam and epic as well as ubisoft, but let's not get off track. First thing you're gonna wanna do is to go to the sidebar on the left and click on wine if you don't already have that selected.
 ![image](https://user-images.githubusercontent.com/106441310/190971109-778e2fda-b9ad-47ab-b04e-b07b16b250ee.png)<!--lutris menu-->
+
 Next click on the little icon left of the settings cog and install "Lutris-7.2-2. This is the best version of wine that iv'e gotten PS Plus to run with, it shouldn't crash or have any issues. If you do encounter any issues please let me know. Go ahead and close out of that menu after wine is done installing.
 ![image](https://user-images.githubusercontent.com/106441310/190971973-828f3a77-c757-4665-81ea-69b71b6a78c1.png)<!--wine versions-->
 Next go ahead and click on the plus button on the top left of Lutris, it will open the add game menu, click add locally installed game, Next we are going to give lutris all the info and settings PS Plus needs. In the name field type in a name of your choice that you want the game to appear as in your main menu, mine is "ps plus". Then open the runner drop down menu and select wine.
