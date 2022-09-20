@@ -63,7 +63,7 @@ Once it's finished installing PS Plus click the arrow to turn off auto launching
 ![image](https://user-images.githubusercontent.com/106441310/190977062-92b5aa12-4485-4094-bc4a-d7588f670471.png)<!--psplus setup finish-->
 
 # DOWNLOADING MSVCR120.DLL
-One thing needed for ps plus to work on linux properly is to donwload "MSVCR120.DLL" I found this out by doing some research on the origional PS Now sony had a long time ago which is a predecessor to PS Plus, this file is needed for it to run on anything other than windows.You can download MSVCR120.DLL[here](https://www.dll-files.com/download/7dabb11da67d32c5dc917839fcbeb16d/msvcr120.dll.html?c=V1JaR09HUW9rN1Zwck12eHZzRUtFUT09)
+One thing needed for ps plus to work on linux properly is to donwload the 32 bit version of "MSVCR120.DLL" I found this out by doing some research on the origional PS Now sony had a long time ago which is a predecessor to PS Plus, this file is needed for it to run on anything other than windows.You can download MSVCR120.DLL[here](https://www.dll-files.com/download/7dabb11da67d32c5dc917839fcbeb16d/msvcr120.dll.html?c=V1JaR09HUW9rN1Zwck12eHZzRUtFUT09)
 
 ![image](https://user-images.githubusercontent.com/106441310/190990254-2814a40a-aef5-464b-b4a1-cb229b91450f.png)<!--MSVCR120.DLL-->
 
